@@ -1,0 +1,25 @@
+{
+    "name": "ledger-parser",
+    "version": "0.0.1",
+    "description": "A Node JS parser for files writing using the awesome accounting software ledger-cli format",
+    "main": "ledger-parser.js",
+    "scripts": {
+        "test": "echo \"No test specified\" && exit 1"
+    },
+    "keywords": [
+        "ledger-cli",
+        "ledger",
+        "ledgercli",
+        "accounting",
+        "finance"
+    ],
+    "author": {
+        "name": "Leonardo Melo",
+        "email" :"hello@leomeloxp.net",
+        "website": "http://leomeloxp.net"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/leomeloxp/ledger-parser/issues"
+    }
+}

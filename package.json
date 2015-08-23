@@ -1,6 +1,6 @@
 {
   "name": "ledger-parser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Node JS parser for files writing using the awesome accounting software ledger-cli format",
   "main": "ledger-parser.js",
   "scripts": {

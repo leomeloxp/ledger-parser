@@ -1,34 +1,34 @@
 {
-    "name": "ledger-parser",
-    "homepage": "https://www.npmjs.com/package/ledger-parser",
-    "version": "0.1.2",
-    "description": "A Node JS parser for files writing using the awesome accounting software ledger-cli format",
-    "main": "ledger-parser.js",
-    "scripts": {
-        "test": "echo \"No test specified\" && exit 1"
-    },
-    "keywords": [
-        "ledger-cli",
-        "ledger",
-        "ledgercli",
-        "accounting",
-        "finance"
-    ],
-    "author": {
-        "name": "Leonardo Melo",
-        "email": "hello@leomeloxp.net"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/leomeloxp/ledger-parser/issues"
-    },
-    "repository" : {
-        "type" : "git",
-        "url" : "https://github.com/npm/npm.git"
-    },
-    "readmeFilename": "README.md",
-    "gitHead": "360dbbefaa6376f9e60af060fca8c26e5f09bc05",
-    "_id": "ledger-parser@0.0.1",
-    "_shasum": "7666e17bf51856c77e42184aef3664f2e7adef59",
-    "_from": "ledger-parser@*"
+  "name": "ledger-parser",
+  "homepage": "https://www.npmjs.com/package/ledger-parser",
+  "version": "0.1.3",
+  "description": "A Node JS parser for files writing using the awesome accounting software ledger-cli format",
+  "main": "ledger-parser.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "ledger-cli",
+    "ledger",
+    "ledgercli",
+    "accounting",
+    "finance"
+  ],
+  "author": {
+    "name": "Leonardo Melo",
+    "email": "hello@leomeloxp.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leomeloxp/ledger-parser/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "360dbbefaa6376f9e60af060fca8c26e5f09bc05",
+  "_id": "ledger-parser@0.0.1",
+  "_shasum": "7666e17bf51856c77e42184aef3664f2e7adef59",
+  "_from": "ledger-parser@*"
 }

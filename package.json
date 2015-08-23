@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/leomeloxp/ledger-parser/issues"
   },
-  "readme": "# ledger-parser\nA NodeJS file parser for ledger-cli files.\n",
   "readmeFilename": "README.md",
   "gitHead": "360dbbefaa6376f9e60af060fca8c26e5f09bc05",
   "_id": "ledger-parser@0.0.1",
